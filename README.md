@@ -6,7 +6,7 @@ I'm a Frontend developer learning [React](https://reactjs.org) with ♥. I'm a [
 
 <!-- <br /> -->
 <div >
-<img align="right" style='margin: 10px 10px 10px 10px; width: 240px' alt="GIF" src="./assets/photo3.png"/>
+<img align="right" width="240px" style='margin: 10px 10px 10px 10px;' alt="Hernán's photo" src="./assets/photo2.png"/>
 <div style='display:inline-block;'>
 <a href="https://twitter.hernan1ro.com">
 <img style='margin-right: 10px;
