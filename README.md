@@ -1,6 +1,6 @@
 ## Hello World! 👋 It's me, [Hernán!](https://google.com)
 
-I'm a Frontend developer learning [React](https://reactjs.org) with ♥. I'm a [JavaScript](https://www.javascript.com/) developer, [Twitch](https://twitch.hernan1ro.com).
+I'm a Frontend developer learning [React](https://reactjs.org) with ♥. I'm a [JavaScript](https://www.javascript.com/) developer.
 
 <br/>
 
@@ -61,4 +61,4 @@ I'm a Frontend developer learning [React](https://reactjs.org) with ♥. I'm a [
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hernan1ro&layout=compact&theme=vision-friendly-dark" />
 </a>
 
-<!-- ![Hernán's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernan1ro&show_icons=true&theme=vision-friendly-dark) -->
+![Hernán's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernan1ro&show_icons=true&theme=vision-friendly-dark)
