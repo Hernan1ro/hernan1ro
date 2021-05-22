@@ -1,4 +1,4 @@
-## Hello World! 👋 It's me, [Hernán!](https://google.com)
+## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> It's me, [Hernán!](https://google.com)
 
 I'm a Frontend developer learning [React](https://reactjs.org) with ♥. I'm a [JavaScript](https://www.javascript.com/) developer.
 
