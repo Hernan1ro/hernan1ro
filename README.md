@@ -10,22 +10,22 @@ I'm a Frontend developer learning [React](https://reactjs.org) with ♥. I'm a [
 <div style='display:inline-block;'>
 <a href="https://twitter.hernan1ro.com">
 <img style='margin-right: 10px;
-' align="right" alt="Hernan Mercado Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
+' align="left" alt="Hernan Mercado Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
 <a href="https://linkedin.hernan1ro.com">
 <img style='margin-right: 10px;
-' align="right" alt="Hernan Mercado LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+' align="left" alt="Hernan Mercado LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 <a href="https://www.youtube.com/channel/UCh6utMHB-06n4k6vUZC_hgA">
 <img style='margin-right: 10px;
-' align="right" alt="Hernan Mercado YouTube" width="22px" src="https://icongr.am/fontawesome/youtube.svg?size=128&color=70c8ff" />
+' align="left" alt="Hernan Mercado YouTube" width="22px" src="https://icongr.am/fontawesome/youtube.svg?size=128&color=70c8ff" />
 </a>
 <a href="https://www.instagram.com/hernan.mercado.js/">
 <img style='margin-right: 10px;
-' align="right" alt="Hernan Mercado Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
+' align="left" alt="Hernan Mercado Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
 <a href="https://twitch.hernan1ro.com">
-<img align="right" style='margin-right:10px;' alt="Hernan Mercado Twitch" width="22px" src="https://icongr.am/fontawesome/twitch.svg?size=128&color=70c8ff" />
+<img align="left" style='margin-right:10px;' alt="Hernan Mercado Twitch" width="22px" src="https://icongr.am/fontawesome/twitch.svg?size=128&color=70c8ff" />
 </a>
 </div>
 </div>
