@@ -55,10 +55,11 @@ I'm a Frontend developer learning [React](https://reactjs.org) with ♥. I'm a [
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hernan1ro&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hernan1ro&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true&bg_color=#7d0a29
+" alt="Hernan's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hernan1ro&layout=compact&theme=vision-friendly-dark" />
 </a>
 
-![Hernán's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernan1ro&show_icons=true&theme=vision-friendly-dark)
+<!-- ![Hernán's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernan1ro&show_icons=true&theme=vision-friendly-dark) -->
