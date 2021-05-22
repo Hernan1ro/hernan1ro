@@ -8,11 +8,11 @@ I'm a Frontend developer learning [React](https://reactjs.org) with ♥. I'm a [
 <div >
 <img align="right" width="240px" style='margin: 10px 10px 10px 10px;' alt="Hernán's photo" src="./assets/photo2.png"/>
 <div style='display:inline-block;'>
-<a href="https://twitter.hernan1ro.com">
+<a href="https://twitter.com/Hernan1ro">
 <img style='margin-right: 10px;
 ' align="left" alt="Hernan Mercado Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
-<a href="https://linkedin.hernan1ro.com">
+<a href="https://www.linkedin.com/in/hernan1ro/">
 <img style='margin-right: 10px;
 ' align="left" alt="Hernan Mercado LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
@@ -24,7 +24,7 @@ I'm a Frontend developer learning [React](https://reactjs.org) with ♥. I'm a [
 <img style='margin-right: 10px;
 ' align="left" alt="Hernan Mercado Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
-<a href="https://twitch.hernan1ro.com">
+<a href="https://www.twitch.tv/hernan1ro">
 <img align="left" style='margin-right:10px;' alt="Hernan Mercado Twitch" width="22px" src="https://icongr.am/fontawesome/twitch.svg?size=128&color=70c8ff" />
 </a>
 </div>
