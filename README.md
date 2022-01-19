@@ -2,10 +2,6 @@
 
 I'm a Frontend developer specialized in [React](https://reactjs.org) with ♥. I'm  also a [JavaScript](https://www.javascript.com/) developer.
 
-<!-- Followers Counter -->
-<p align="center">   
-  <img src="https://profile-counter.glitch.me/hernan1ro/count.svg" />  
-</p>
 
 <br/>
 
