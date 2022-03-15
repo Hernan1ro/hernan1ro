@@ -1,4 +1,4 @@
-## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> It's me, [Hernán!](https://twitter.com/Hernan1ro)
+## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> It's me, [Hernán!](www.hernanmercado.com)
 
 I'm a Frontend developer specialized in [React](https://reactjs.org) with ♥. I'm  also a [JavaScript](https://www.javascript.com/) developer.
 
@@ -35,11 +35,11 @@ I'm a Frontend developer specialized in [React](https://reactjs.org) with ♥. I
 
 ## About me as a Dev
 
-- 🔭 I’m currently creating with [HTML](https://html.com),[CSS](https://www.css.com/) & [JavaScript](https://www.javascript.com/) amazing projects that you can see [right here](https://github.com/Hernan1ro?tab=repositories)
+- 🔭 I’m currently creating with [HTML](https://html.com),[CSS](https://www.css.com/) & [JavaScript](https://www.javascript.com/) amazing projects that you can see [right here](www.hernanmercado.com)
 
 - 🌱 I’m currently learning [React](https://reactjs.org).
 
-- 💬 Creating content in [my blog](), [Twitch](https://twitch.hernan1ro.com) and [YouTube](https://www.youtube.com/channel/UCh6utMHB-06n4k6vUZC_hgA).
+- 💬 Creating content in [my blog](www.hernanmercado.com), [Twitch](https://twitch.hernan1ro.com) and [YouTube](https://www.youtube.com/channel/UCh6utMHB-06n4k6vUZC_hgA).
 </div>
 
 <br />
