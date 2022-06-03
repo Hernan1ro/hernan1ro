@@ -1,4 +1,4 @@
-## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> It's me, [Hernán!](https://www.hernanmercado.com)
+## Hello World! It's me, [Hernán!](https://www.hernanmercado.com)
 
 I'm a Frontend developer specialized in [React](https://reactjs.org) with ♥. I'm  also a [JavaScript](https://www.javascript.com/) developer.
 
